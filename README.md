@@ -18,7 +18,7 @@ Install my-rjsf with npm
 import React, { useState } from "react";
 import { schemaModel } from './schemas/schema';
 import CustomTemplate from "./templates/CustomTemplate";
-import { MyForm } from 'my-rjsf9';
+import { MyForm } from 'my-rjsf';
 
 function App() {
   const [formData, setFormData] = useState();
