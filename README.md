@@ -1,4 +1,4 @@
-# My-RJSF: A Powerful React-Based Form Generator
+# My-RJSF: A React-Based Form Generator
 
 It is a robust and customizable React package designed to dynamically generate user-friendly forms based on a provided JSON schema. It streamlines the process of building interactive, data-driven forms with built-in support for custom fields, templates, and validation.
 
